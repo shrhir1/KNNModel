@@ -17,6 +17,7 @@ MNIST Handwritten Digits
 - Used here for digit recognition tasks.
 
 _Wine Dataset_
+
 A dataset with chemical analysis of wines, with features such as alcohol, acidity, and phenols.
 Used for classification into wine categories.
 
